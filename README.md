@@ -1,1 +1,2 @@
-# Lakshi-Subhasinghe-Java
+# JAVA-Practicals
+JAVA Lab Practicals
